@@ -111,10 +111,13 @@ Bilingual translation app with voice input, text-to-speech, and a custom handwri
 
 <br/>
 
-## Background
+## Education Journey
 
-**MSc Project Management** — Ravensbourne University London (2024–2025)
-**BSc (Hons) Software Engineering** — Pokhara University, Nepal (2017–2022)
+Started with **Software Engineering** at Pokhara University, Nepal — where I learned to actually think like an engineer, not just write code.
+
+Went on to study **Project Management** at Ravensbourne University London — learning how to take an idea, plan it properly, and carry it through to delivery.
+
+Still learning, still building — every project teaches me something the last one didn't.
 
 <br/>
 
