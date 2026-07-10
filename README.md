@@ -25,17 +25,6 @@ Currently **IT Engineer** at a London retail business, running the technical sta
 
 Alongside that, I run **Shyasar Lab** — where I designed, built, and shipped **ShyasarDoc** end-to-end: a production Android app now at **15,000+ downloads and a 4.2★ rating**, with native C++/OpenCV image processing running on-device via Flutter FFI, so no user data ever leaves the device.
 
-```
-const engineer = {
-  experience: "4+ years professional, software engineering since 2017",
-  currentRole: "IT Engineer @ Vaping Joint, London — PHP/Laravel, POS/eCommerce integration",
-  founder: "Shyasar Lab — ShyasarDoc (15K+ downloads, 4.2★, Google Play)",
-  languages: ["Dart", "C++", "PHP", "TypeScript", "JavaScript", "SQL"],
-  architecture: ["Clean Architecture", "SOLID", "OOP", "Design Patterns"],
-  currentlyBuilding: "StockKitchen — AI kitchen inventory app, computer vision + predictive analytics",
-};
-```
-
 <br/>
 
 ## Tech Stack
@@ -46,6 +35,7 @@ const engineer = {
 <br/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -91,6 +81,8 @@ Production Android application with native C++ and OpenCV image processing runni
 
 `Flutter` `Dart` `C++` `Flutter FFI` `OpenCV` `BLoC` `Firebase` `Crashlytics` `Sentry` `GitHub Actions`
 
+**[▶ View on Google Play](https://play.google.com/store/apps/details?id=com.sujan.app.photo.merge.tools&hl=en_GB)**
+
 <br/>
 
 ### 🧠 StockKitchen — AI Kitchen Intelligence *(in development)*
@@ -115,26 +107,7 @@ Bilingual translation app with voice input, text-to-speech, and a custom handwri
 
 `Flutter` `Dart` `Provider` `Speech to Text` `Text to Speech`
 
-<br/>
-
-## Open Source
-
-<div align="center">
-
-<a href="https://github.com/sujanbhattaraiofficial/online-course-UI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=online-course-UI&theme=dark&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/sujanbhattaraiofficial/neumorphic-designs-in-flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=neumorphic-designs-in-flutter&theme=dark&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/sujanbhattaraiofficial/firebase_push_notification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=firebase_push_notification&theme=dark&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/sujanbhattaraiofficial/splitted-text">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=splitted-text&theme=dark&hide_border=true&show_owner=false" />
-</a>
-
-</div>
+**[▶ View on Google Play](https://play.google.com/store/apps/details?id=com.sujan.app.nepali.to.japanese&hl=en_GB)**
 
 <br/>
 
