@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sujan%20Bhattarai&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20Mobile%20%26%20Web&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://ersujanbhattarai.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=4%2B+years+shipping+production+software;Flutter+%2B+native+C%2B%2B%2FOpenCV+on-device;15%2C000%2B+downloads+on+Google+Play;Currently%3A+IT+Engineer+%40+Vaping+Joint%2C+London&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=21&pause=2200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+turn+ideas+into+shipped+products;15%2C000%2B+downloads+on+Google+Play;From+first+line+of+code+to+production+release;Currently%3A+IT+Engineer+%40+Vaping+Joint%2C+London&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=21&pause=2200" />
 </a>
 
 <br/><br/>
@@ -19,11 +19,11 @@
 
 ## About
 
-Software Developer with **4+ years of professional experience**, building production applications across mobile, web, and full-stack systems since 2017. I own software across the full lifecycle — design, build, test, ship, maintain.
+I take an idea on a napkin and turn it into a product people actually use.
 
-Currently **IT Engineer** at a London retail business, running the technical stack: PHP/Laravel web apps, POS ↔ eCommerce integration, a custom CRM, and the technical SEO that generated the company's first online orders.
+I own the whole journey — from the first line of code to a live release in someone's hands — and I don't stop at "it works," I stop at "it's shipped, it's stable, and people are using it."
 
-Alongside that, I run **Shyasar Lab** — where I designed, built, and shipped **ShyasarDoc** end-to-end: a production Android app now at **15,000+ downloads and a 4.2★ rating**, with native C++/OpenCV image processing running on-device via Flutter FFI, so no user data ever leaves the device.
+Give me a hard problem and a deadline, and I'll give you something real.
 
 <br/>
 
@@ -115,8 +115,6 @@ Bilingual translation app with voice input, text-to-speech, and a custom handwri
 
 **MSc Project Management** — Ravensbourne University London (2024–2025)
 **BSc (Hons) Software Engineering** — Pokhara University, Nepal (2017–2022)
-
-Final-year project: a blood donation and sharing platform connecting donors with patients — won a **Best Project Award**.
 
 <br/>
 
