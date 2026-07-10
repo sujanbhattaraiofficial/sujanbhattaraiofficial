@@ -52,6 +52,14 @@ If it's broken, I want to know why. If it doesn't exist yet, I want to be the on
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/BLoC-40C4FF?style=flat-square&logo=flutter&logoColor=white" />
 
+**Architecture & Patterns**
+<br/>
+<img src="https://img.shields.io/badge/Clean_Architecture-4A90D9?style=flat-square" />
+<img src="https://img.shields.io/badge/SOLID-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/MVVM-00A896?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-E76F51?style=flat-square" />
+<img src="https://img.shields.io/badge/Design_Patterns-264653?style=flat-square" />
+
 **Web & Backend**
 <br/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
