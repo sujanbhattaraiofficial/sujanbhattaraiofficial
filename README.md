@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sujan%20Bhattarai&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20Mobile%20%26%20Web&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://ersujanbhattarai.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+turn+ideas+into+shipped+products;15%2C000%2B+downloads+on+Google+Play;From+first+line+of+code+to+production+release;Currently%3A+IT+Engineer+%40+Vaping+Joint%2C+London&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=21&pause=2200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+because+I+can%27t+help+it.;15%2C000%2B+downloads+on+Google+Play;From+first+line+of+code+to+production+release;Currently%3A+IT+Engineer+%40+Vaping+Joint%2C+London&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=21&pause=2200" />
 </a>
 
 <br/><br/>
@@ -19,11 +19,13 @@
 
 ## About
 
-I take an idea on a napkin and turn it into a product people actually use.
+I build because I can't help it.
 
-I own the whole journey — from the first line of code to a live release in someone's hands — and I don't stop at "it works," I stop at "it's shipped, it's stable, and people are using it."
+Give me a problem and I'll disappear for a while and come back with something real — not a prototype gathering dust, but a product people actually open, use, and depend on.
 
-Give me a hard problem and a deadline, and I'll give you something real.
+I've done this enough times now to know the difference between "it works on my machine" and "it's live, it's stable, and someone's relying on it today." I care about the second one. I own things end to end — I don't hand off the hard parts and I don't stop until it's actually done.
+
+If it's broken, I want to know why. If it doesn't exist yet, I want to be the one who builds it.
 
 <br/>
 
