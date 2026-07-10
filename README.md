@@ -1,76 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sujan%20Bhattarai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Mobile%20%26%20Web%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sujan%20Bhattarai&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20Mobile%20%26%20Web&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://ersujanbhattarai.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Mobile+%26+Web+Engineer;I+build+because+I+can't+help+it.;Flutter+%C2%B7+Dart+%C2%B7+Firebase+%C2%B7+Kotlin;Currently+shipping+production+apps+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22&pause=1800" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=4%2B+years+shipping+production+software;Flutter+%2B+native+C%2B%2B%2FOpenCV+on-device;15%2C000%2B+downloads+on+Google+Play;Currently%3A+IT+Engineer+%40+Vaping+Joint%2C+London&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=21&pause=2200" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://ersujanbhattarai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ersujanbhattarai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ersujanbhattarai.vercel.app-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ersujanbhattarai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://youtube.com/@sujanbhattarai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/London,_UK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## About
 
-- 🔭 Currently building **premium document scanning, PDF, and passport photo tooling** — Flutter, native OpenCV, on-device ML
-- 🌱 Deep in Flutter internals, CI/CD pipelines, and native Android/iOS integration
-- 🛠️ I ship real, published apps end-to-end — UI, backend, native modules, release engineering
-- 🔨 Currently building a premium document scanning & passport photo app *(private)*
-- ⚡ Fun fact: I build because I can't help it.
+Software Developer with **4+ years of professional experience**, building production applications across mobile, web, and full-stack systems since 2017. I own software across the full lifecycle — design, build, test, ship, maintain.
+
+Currently **IT Engineer** at a London retail business, running the technical stack: PHP/Laravel web apps, POS ↔ eCommerce integration, a custom CRM, and the technical SEO that generated the company's first online orders.
+
+Alongside that, I run **Shyasar Lab** — where I designed, built, and shipped **ShyasarDoc** end-to-end: a production Android app now at **15,000+ downloads and a 4.2★ rating**, with native C++/OpenCV image processing running on-device via Flutter FFI, so no user data ever leaves the device.
+
+```
+const engineer = {
+  experience: "4+ years professional, software engineering since 2017",
+  currentRole: "IT Engineer @ Vaping Joint, London — PHP/Laravel, POS/eCommerce integration",
+  founder: "Shyasar Lab — ShyasarDoc (15K+ downloads, 4.2★, Google Play)",
+  languages: ["Dart", "C++", "PHP", "TypeScript", "JavaScript", "SQL"],
+  architecture: ["Clean Architecture", "SOLID", "OOP", "Design Patterns"],
+  currentlyBuilding: "StockKitchen — AI kitchen inventory app, computer vision + predictive analytics",
+};
+```
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,html,css,js,git,github,figma,vscode&theme=dark" />
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+**Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter_FFI-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/BLoC-40C4FF?style=flat-square&logo=flutter&logoColor=white" />
+
+**Web & Backend**
+<br/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+**Tools & Practices**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## Selected Projects
+
+### 📄 ShyasarDoc — Passport & ID Maker
+**15,000+ downloads · 4.2★ · Google Play**
+
+Production Android application with native C++ and OpenCV image processing running on-device via Flutter FFI. Secure-by-design — no user data leaves the device. Automated testing and a full CI/CD release pipeline on GitHub Actions.
+
+`Flutter` `Dart` `C++` `Flutter FFI` `OpenCV` `BLoC` `Firebase` `Crashlytics` `Sentry` `GitHub Actions`
+
+<br/>
+
+### 🧠 StockKitchen — AI Kitchen Intelligence *(in development)*
+
+Turns a camera scan into a full structured inventory using a computer vision pipeline and on-device object detection. Built solo, from concept to working prototype:
+
+- **Stateful delta-scan engine** — tracks consumption over time
+- **Fuzzy matching** — prevents duplicate purchases
+- **Inventory-locked recipe engine** — rescues food near expiry
+- **Predictive shopping lists** — based on consumption velocity
+
+Goal: cut food waste and cost of living from a single scan.
+
+`Flutter` `Dart` `C++` `Supabase` `Computer Vision` `Predictive Analytics`
+
+<br/>
+
+### 🈂️ Nepali → Japanese Translate
+**1,000+ downloads · Google Play**
+
+Bilingual translation app with voice input, text-to-speech, and a custom handwriting-to-text canvas for Japanese character input.
+
+`Flutter` `Dart` `Provider` `Speech to Text` `Text to Speech`
+
+<br/>
+
+## Open Source
 
 <div align="center">
 
 <a href="https://github.com/sujanbhattaraiofficial/online-course-UI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=online-course-UI&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=online-course-UI&theme=dark&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/sujanbhattaraiofficial/neumorphic-designs-in-flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=neumorphic-designs-in-flutter&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/sujanbhattaraiofficial/splitted-text">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=splitted-text&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=neumorphic-designs-in-flutter&theme=dark&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/sujanbhattaraiofficial/firebase_push_notification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=firebase_push_notification&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=firebase_push_notification&theme=dark&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/sujanbhattaraiofficial/splitted-text">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujanbhattaraiofficial&repo=splitted-text&theme=dark&hide_border=true&show_owner=false" />
 </a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## Background
 
-<div align="center">
+**MSc Project Management** — Ravensbourne University London (2024–2025)
+**BSc (Hons) Software Engineering** — Pokhara University, Nepal (2017–2022)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujanbhattaraiofficial&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanbhattaraiofficial&theme=dark&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanbhattaraiofficial&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
-
-</div>
+Final-year project: a blood donation and sharing platform connecting donors with patients — won a **Best Project Award**.
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
+📫 **hisujanbhattarai@gmail.com** &nbsp;·&nbsp; 🌐 **[ersujanbhattarai.vercel.app](https://ersujanbhattarai.vercel.app/)** &nbsp;·&nbsp; 📍 **London, UK**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%" />
 
 </div>
