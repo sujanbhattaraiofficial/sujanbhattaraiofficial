@@ -123,14 +123,6 @@ Bilingual translation app with voice input, text-to-speech, and a custom handwri
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujanbhattaraiofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanbhattaraiofficial&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <br/>
 
