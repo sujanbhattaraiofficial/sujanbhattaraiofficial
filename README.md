@@ -135,7 +135,7 @@ Still learning, still building. Every project teaches me something the last one 
 
 <div align="center">
 
-📫 **heysujanbhattarai@gmail.com** &nbsp;·&nbsp; 🌐 **[ersujanbhattarai.vercel.app](https://ersujanbhattarai.vercel.app/)** &nbsp;·&nbsp; 📍 **London, UK**
+📫 **heysujanbhattarai@gmail.com** &nbsp;·&nbsp;📍 **London, UK**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%" />
 
