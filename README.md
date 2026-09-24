@@ -6,7 +6,6 @@
 
 <br/><br/>
 
-<a href="https://ersujanbhattarai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ersujanbhattarai.vercel.app-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ersujanbhattarai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://youtube.com/@sujanbhattarai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/London,_UK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
