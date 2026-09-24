@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sujan%20Bhattarai&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Software%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20Native%20C%2B%2B%20%C2%B7%20Cloud&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://ersujanbhattarai.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+because+I+can%27t+help+it.;15%2C000%2B+downloads+on+Google+Play;From+first+line+of+code+to+production+release;Currently%3A+Mobile+%26+Software+Engineer+%40+Vaping+Joint%2C+London&font=Fira+Code&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=21&pause=2200" />
-</a>
+
 
 <br/><br/>
 
